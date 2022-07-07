@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 100px;
+    background-color: #53c1d1;
+    font-family: 'GlacialIndifferenceRegular', sans-serif;
+    text-align: center;
+    color: #fff;   
+}
+
+h1 {
+    font-size: 120px;
+    letter-spacing: 2.5rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    letter-spacing: 0.4rem;
+    text-transform: uppercase;
+}
+
+.link{
+    color: #fff;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.link:hover {
+    color: #777;
+    
+}
