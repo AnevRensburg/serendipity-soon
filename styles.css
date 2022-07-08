@@ -53,6 +53,9 @@ h2 {
     h2 {
         letter-spacing: 0.3rem;
     }
+    .coming-soon{
+        padding-bottom: 50px;
+    }
 }
 
 @media (max-width:650px){
